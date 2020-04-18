@@ -1,0 +1,6 @@
+Safe Locations
+
+This program will suggest tourist visiting San Francisco trending places on a map which depicts crime rates in the neighborhood.
+With this tourists can make an educated decision on the next place to visit.
+ 
+If they end up having any trouble during their visit they can search for a police station and safe locations near them where they can either get government authority help or a place where they can easily find the means to help themselves. 
