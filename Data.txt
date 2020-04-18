@@ -1,5 +1,0 @@
-Data
-
-The data sets used in this program are:
-	1. San  Francisco crime data set 
-	2. Foursquare location data 
